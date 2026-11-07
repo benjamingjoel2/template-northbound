@@ -45,7 +45,7 @@ export const config = {
     /** Short line under the name in the footer and in the hero. */
     tagline: "[Your tagline goes here.]",
     /** Public address of the site, no trailing slash. Used for meta tags. */
-    url: "https://example.com",
+    url: "https://northboundtemplate.tourground.com",
     /**
      * Optional logo mark shown above the wordmark in the centred logo.
      * Leave as null to show only the wordmark. Use an SVG drawn in
